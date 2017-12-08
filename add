@@ -1,0 +1,3 @@
+fno=int(input("enter the first no.")
+sno=int(input("enter the second no.")
+sum=fno+sno
